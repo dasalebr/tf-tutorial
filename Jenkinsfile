@@ -4,6 +4,8 @@ pipeline {
            CHKP_CLOUDGUARD_ID = "3a235afb-f71c-4eec-a3ad-49d84dbce306"
            CHKP_CLOUDGUARD_SECRET = "ypdqz61yx9xbtqyz3jkrmp7p"
             
+         }
+            
    stages {
           
          stage('Clone Github repository') {
